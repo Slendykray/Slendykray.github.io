@@ -1,0 +1,67 @@
+{
+	"appid": 3254130,
+	"items": [
+
+		{
+			"itemdefid": 1,
+			"type": "item",
+			"name": "Banana",
+			"name_color": "ffea00",
+			"icon_url": "https://slendykray.github.io/DancingCatSteamItems/banana.png",
+			"icon_url_large": "https://slendykray.github.io/DancingCatSteamItems/banana.png",
+			"tradable": true,
+			"marketable": true
+		},
+
+		{
+			"itemdefid": 2,
+			"type": "item",
+			"name": "Hat",
+			"name_color": "72e838",
+			"icon_url": "https://slendykray.github.io/DancingCatSteamItems/hat.png",
+			"icon_url_large": "https://slendykray.github.io/DancingCatSteamItems/hat.png",
+			"tradable": true,
+			"marketable": true
+		},
+
+		{
+			"itemdefid": 100,
+			"type": "playtimegenerator",
+			"name": "Generator Selector",
+			"bundle": "101x50;102x50"
+		},
+
+		{
+			"itemdefid": 101,
+			"type": "generator",
+			"name": "Generator Common",
+			"bundle": "1",
+			"tags": "rarity:common"
+		},
+
+		{
+			"itemdefid": 102,
+			"type": "generator",
+			"name": "Generator Uncommon ",
+			"bundle": "2",
+			"tags": "rarity:uncommon"	
+		},
+
+		{
+			"itemdefid": 103,
+			"type": "generator",
+			"name": "Generator Rare",
+			"bundle": "2",
+			"tags": "rarity:rare"
+	
+		}
+
+	
+
+
+
+	
+
+	]
+
+}
